@@ -1,0 +1,3 @@
+Browser_Name,Browser_Version,Browser_String,OS_Name,OS_Version,OS_String,protocol,device,release_date,has_icon,has_lock,lock_pos,lock_color,lock_detail,lock_enhance,has_fav,fav_pos,fav_icon,url_shown,protocol_shown,protocol_attached,protocol_emphasis,protocol_obscure,url_add,url_add_pos,url_add_text,url_add_emphasis,url_add_bg,seperator,"url_warn
+"
+Firefox,49x64,FF49x64,Windows,8,Win8,https,desktop,2016-09-20,True,True,L_URL,GREEN,SIMPLE,NONE,False,IRR,IRR,True,REDACTED,REDACTED,REDACTED,REDACTED,False,IRR,IRR,IRR,IRR,True

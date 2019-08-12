@@ -1,0 +1,3 @@
+Browser_Name,Browser_Version,Browser_String,OS_Name,OS_Version,OS_String,protocol,device,release_date,has_icon,has_lock,lock_pos,lock_color,lock_detail,lock_enhance,has_fav,fav_pos,fav_icon,url_shown,protocol_shown,protocol_attached,protocol_emphasis,protocol_obscure,url_add,url_add_pos,url_add_text,url_add_emphasis,url_add_bg,seperator,"url_warn
+"
+Mobile Chrome,51,MblChrome51,Android,41,GalaxyS3-And41,https,GalaxyS3,2016-06-01,True,True,L_URL,GREEN,DETAILED,NONE,False,IRR,IRR,True,False,IRR,IRR,IRR,False,IRR,IRR,IRR,IRR,False
